@@ -1,0 +1,8 @@
+mkdir appinsights
+cd appinsights
+npm init -y
+
+npm install express express-session os
+npm install applicationinsights --save
+node app.js
+
