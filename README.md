@@ -3,6 +3,9 @@ Azure App Insights Demo using Node.js express server
 
 This takes into account Session Id created from ServerHostName
 
+# Pre-Req
+Make sure you have Azure connection String
+
 # Set up and deployment steps
 
 This are the setup steps
